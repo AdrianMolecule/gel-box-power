@@ -1,6 +1,13 @@
-Project is incompletely documented despite having the physical. Aside from that the project is functional, stabile and has been tested. No immediate plans to change and no outstanding bugs for the implementation yet the laser cut models need to be readjusted to the implementation.
+
+This is a project containing the design of a power box for electrophoresis gel box sometimes simply called gel box.
+
+Project is incompletely documented. Aside from that the implementation of this design is functional, stabile and has been tested. No immediate plans to change and no outstanding bugs for the implementation yet the laser cut models need to be readjusted to the implementation.
+
 I will create 2 more associated projects: one for the gelbox and combs and one for the transiluminator
-This project contains the design of a gel box power supply and contains information about the electronics and model for the case. There are 2 options for the casing: a CNC cut case and a lasercut one.
+This project contains the design of the electronics and model for the case. There are 2 options for the casing: a CNC cut case and a lasercut one and, at ths pont no plans for a 3D printed case as it would take too long to print.
+
+
+
 
 TODO
 Lasercut models need change to match the built case:
