@@ -1,10 +1,12 @@
 
 This is a project containing the design of a power box for electrophoresis gel box sometimes simply called gel box.
+At this point the info for the laser cut power box is obsolete except so I'll archive or change this repository.
+A lasercut version is at https://github.com/AdrianMolecule/gelelectrophoresis and it contains the actual gel box and the box for the power but not the transilluminator.
 
 Project is incompletely documented. Aside from that the implementation of this design is functional, stabile and has been tested. No immediate plans to change and no outstanding bugs for the implementation yet the laser cut models need to be readjusted to the implementation.
 
 I will create 2 more associated projects: one for the gelbox and combs and one for the transiluminator
-This project contains the design of the electronics and model for the case. There are 2 options for the casing: a CNC cut case and a lasercut one and, at ths pont no plans for a 3D printed case as it would take too long to print.
+This project contains the design of the electronics and model for the case. There are 2 options for the casing: a CNC cut case and a lasercut one and, at this pont no plans for a 3D printed case as it would take too long to print.
 
 
 
